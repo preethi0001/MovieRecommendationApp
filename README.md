@@ -1,8 +1,10 @@
-# Flick Picks
+# Flick Picks 
 
 Welcome to **Flick Picks** - Your Personalized Movie Recommendation App!
 
 Discover movies tailored to your taste with Flick Picks. Built using Python and Streamlit, this content-based recommendation system processes a vast collection of movies from the TMDb dataset to bring you personalized movie suggestions.
+
+**Website** : https://flickpicks.streamlit.app/
 
 ## Features
 
